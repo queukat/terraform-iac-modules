@@ -1,5 +1,9 @@
 # Infrastructure as Code with Terraform and Azure
 
+<!-- public-repo-status -->
+> Status: Legacy/reference. This repository is kept public as an IaC example, but it is not actively supported. Issues and pull requests are disabled unless support is reopened.
+
+
 This project utilizes **Terraform** to deploy infrastructure on **Microsoft Azure**, including a virtual machine (VM) equipped with a web server. By defining your infrastructure as code, you can automate deployments, ensure consistency, and manage your resources efficiently.
 
 ## Table of Contents
